@@ -15,3 +15,5 @@ DOI presentazione Sviluppo web - Bootstrap 1: <a href="https://figshare.com/arti
 DOI presentazione Sviluppo web - Bootstrap 2: <a href="https://figshare.com/articles/presentation/Sviluppo_web_-_Bootstrap_2/14470164/1" title="GitHub">10.6084/m9.figshare.14470164</a>
 <br>
 DOI presentazione Sviluppo web - GitHub: <a href="https://figshare.com/articles/presentation/Sviluppo_web_-_GitHub/14470464" title="GitHub">10.6084/m9.figshare.14470464</a>
+
+GLHF!
