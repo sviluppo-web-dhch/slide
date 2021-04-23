@@ -16,7 +16,7 @@ DOI presentazione Sviluppo web - Bootstrap 2: <a href="https://figshare.com/arti
 <br>
 DOI presentazione Sviluppo web - GitHub: <a href="https://figshare.com/articles/presentation/Sviluppo_web_-_GitHub/14470464" title="GitHub">10.6084/m9.figshare.14470464</a>
 
-GLHF!
+GLHF
 
 Martina Dello Buono
 <br>
