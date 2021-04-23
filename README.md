@@ -17,3 +17,16 @@ DOI presentazione Sviluppo web - Bootstrap 2: <a href="https://figshare.com/arti
 DOI presentazione Sviluppo web - GitHub: <a href="https://figshare.com/articles/presentation/Sviluppo_web_-_GitHub/14470464" title="GitHub">10.6084/m9.figshare.14470464</a>
 
 GLHF!
+
+Martina Dello Buono
+<br>
+PhD student in Digital Humanities
+<br>
+Dipartimento di Filologia Classica e Italianistica
+<br>
+Alma Mater Studiorum - Università di Bologna
+<br>
+martina.dellobuono2@unibo.it
+
+### Tutti i materiali integrativi
+https://github.com/sviluppo-web-dhch
